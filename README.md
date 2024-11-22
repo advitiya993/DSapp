@@ -23,26 +23,10 @@ Here're some of the project's best features:
 
 <h2>🛠️ Installation Steps:</h2>
 
-<p>1. Clone the repository:</p>
-
-```
-https://github.com/advitiya993/AI-Colorization-Model.git cd AI-Colorization-Model
-```
-
-<p>2. Download Pre-Trained Model and Resources:</p>
-
-<p>3. Place the downloaded files in the models/ directory.</p>
-
-<p>4. Install Dependencies:</p>
-
-```
-pip install numpy opencv-python
-```
-
 <p>5. Run the Script:</p>
 
 ```
-python main.py
+npm run dev
 ```
 
   
